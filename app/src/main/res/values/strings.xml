@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RSSFeed</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="textview">Sign Up</string>
+    <string name="tvAppTitle">RSS Feed</string>
+    <string name="title_activity_rss_feed" />
+    <string name="tvRegistration">Rejestracja</string>
+    <string name="btnRegister">Zarejestruj</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="action_sign_in">Zaloguj</string>
+</resources>
